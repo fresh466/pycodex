@@ -16,3 +16,8 @@ It has also been able to make strictly math-related scripts such as:
 ## What is it testing?
 PyCodex tests only for what works and what doesn't. If it tested for quality, half of all scripts here wouldn't be out right now.
 
+## How to use calc.py
+
+1. Input all numbers in your equation, then an empty string.
+2. Input all operators in your equation, then an empty string.
+3. You should get a result.
