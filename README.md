@@ -1,5 +1,5 @@
 # pycodex
-PyCodex is a project where we generate code and programs with [AI](https://openai.com/blog/openai-codex/).
+PyCodex is a project where we generate code and programs with [AI](chat.openai.com).
 
 ## What is it for?
 PyCodex tests the AI on many prompts and sees where the AI can go. So far it has been able to make:
