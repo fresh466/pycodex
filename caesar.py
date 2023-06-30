@@ -1,3 +1,7 @@
+"""
+caesar.py: Partly generated with ChatGPT as part of the PyCodex project: https://github.com/fresh466/pycodex
+"""
+
 import sys
 
 def cae_enc(plaintext, shift):
